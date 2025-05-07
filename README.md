@@ -17,10 +17,10 @@ A real-time face-tracking system that uses Python, OpenCV, and MediaPipe to dete
 
 ## 🛠️ Hardware Requirements
 
-- Arduino Uno or Nano ×2 (or one with multiple tasks)
+- Arduino Uno or Nano ×2
 - 2x Servo motors (e.g., SG90)
 - USB cables for serial connection
-- Computer with Python 3.x and webcam
+- Computer with Python 3.x and USB webcam
 
 ---
 
